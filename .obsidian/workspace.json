@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fcb2ad1e07e4c605",
+        "id": "73b9f62b9b6a4cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "e22989f9f075326d",
+            "id": "474abd0228a6ada2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "智慧招采平台/审批流程配置功能_20260417.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "审批流程配置功能_20260417"
+              "title": "新标签页"
             }
           }
         ]
@@ -174,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -183,34 +180,34 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e22989f9f075326d",
+  "active": "474abd0228a6ada2",
   "lastOpenFiles": [
-    "智慧招采平台/审批流程配置功能_20260416.md",
-    "智慧招采平台/审批流式记录视觉方案.md",
-    "智慧招采平台/审批流程配置功能_20260417.md",
+    "未命名.base",
+    "智慧招采平台/运营后台/租户管理.md",
+    "智慧招采平台/运营后台/运营后台总介绍.md",
+    "智慧招采平台/运营后台/管理后台v2.0_20260413.md",
+    "智慧招采平台/运营后台/审批流式记录视觉方案.md",
+    "智慧招采平台/过程文件/智慧招采平台总介绍.md",
+    "智慧招采平台/过程文件/企业信息管理.md",
+    "智慧招采平台/过程文件/系统菜单与角色设计稿.md",
+    "智慧招采平台/过程文件",
+    "智慧招采平台/过程文件/设计规范.md",
+    "未命名",
+    "智慧招采平台/过程文件/业务角色定义.md",
+    "智慧招采平台/过程文件/tenant management prompt.md",
+    "智慧招采平台/运营后台/审批流程配置功能_20260417.md",
+    "2026-04-20.md",
+    "Users/freewolf/Documents/Projects/quasar-bidding/doc/db/数据库表说明_sys.md",
+    "智慧招采平台/过程文件/审批流程配置功能_20260416.md",
     "产品学习/What Is CRM_salesforce.md",
     "产品学习",
-    "未命名",
     "报名系统仲裁功能产品需求设计.md",
-    "2026-04-20.md",
-    "智慧招采平台/管理后台v2.0_20260413.md",
-    "智慧招采平台/设计规范.md",
-    "智慧招采平台/运营后台/运营后台总介绍.md",
-    "智慧招采平台/智慧招采平台总介绍.md",
-    "智慧招采平台/运营后台/租户管理.md",
-    "系统菜单与角色设计稿.md",
-    "业务角色定义.md",
-    "Users/freewolf/Documents/Projects/quasar-bidding/doc/db/数据库表说明_sys.md",
     "Users/freewolf/Documents/Projects/quasar-bidding/doc/db",
     "Users/freewolf/Documents/Projects/quasar-bidding/doc",
     "Users/freewolf/Documents/Projects/quasar-bidding",
     "Users/freewolf/Documents/Projects",
     "Users/freewolf/Documents",
     "Users/freewolf",
-    "Users",
-    "tenant management prompt.md",
-    "企业信息管理.md",
-    "智慧招采平台/运营后台",
     "().md",
     "未命名/智慧招采平台.md",
     "创建链接.md"
