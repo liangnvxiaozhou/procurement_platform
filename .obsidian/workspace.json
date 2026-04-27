@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "智慧招采平台/过程文件/审批流程配置功能_20260416.md",
+                "file": "智慧招采平台/运营后台/采购计划功能设计_20260427.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "审批流程配置功能_20260416"
+              "title": "采购计划功能设计_20260427"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "474abd0228a6ada2",
   "lastOpenFiles": [
+    "智慧招采平台/过程文件/审批流程配置功能_20260416.md",
     "智慧招采平台/运营后台/审批流程配置功能_20260417.md",
     "智慧招采平台/运营后台/管理后台v2.0_20260413.md",
     "智慧招采平台/过程文件/企业信息管理.md",
@@ -202,7 +203,6 @@
     "智慧招采平台/过程文件/tenant management prompt.md",
     "2026-04-20.md",
     "Users/freewolf/Documents/Projects/quasar-bidding/doc/db/数据库表说明_sys.md",
-    "智慧招采平台/过程文件/审批流程配置功能_20260416.md",
     "产品学习/What Is CRM_salesforce.md",
     "产品学习",
     "报名系统仲裁功能产品需求设计.md",
