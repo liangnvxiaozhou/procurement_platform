@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "智慧招采平台/设计文档/平台管理中心功能设计_20260602.md",
+                "file": "智慧招采平台/设计文档/采购计划功能设计_20260428.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "平台管理中心功能设计_20260602"
+              "title": "采购计划功能设计_20260428"
             }
           }
         ],
@@ -197,11 +197,11 @@
   },
   "active": "2a07bd14a91e2edd",
   "lastOpenFiles": [
+    "智慧招采平台/设计文档/平台管理中心功能设计_20260602.md",
     "智慧招采平台/过程文件/智慧招采平台需求规格说明书.pdf",
     "智慧招采平台/设计文档/项目立项功能设计_20260601.md",
     "智慧招采平台/设计文档/审批流程配置功能_20260417.md",
     "智慧招采平台/设计文档/招标人代表库功能设计.md",
-    "智慧招采平台/设计文档/平台管理中心功能设计_20260602.md",
     "智慧招采平台/设计文档/管理后台v2.0_20260413.md",
     "智慧招采平台/设计文档/采购立项功能设计_20260518.md",
     "智慧招采平台/设计文档/演示测试数据_20260527.md",
@@ -233,7 +233,6 @@
     "Users/freewolf/Documents/Projects/quasar-bidding/doc",
     "Users/freewolf/Documents/Projects/quasar-bidding",
     "Users/freewolf/Documents/Projects",
-    "Users/freewolf/Documents",
-    "Users/freewolf"
+    "Users/freewolf/Documents"
   ]
 }
