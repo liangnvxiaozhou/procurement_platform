@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "474abd0228a6ada2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
             "id": "2a07bd14a91e2edd",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "项目立项功能设计_通用版"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85811a2788f3c27e",
