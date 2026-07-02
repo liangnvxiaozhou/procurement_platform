@@ -1,0 +1,158 @@
+- generic [active] [ref=e1]:
+  - text: 
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - text: 国家授时中心标准时间： 2026/7/2 14:32:51 星期四
+        - generic [ref=e5]:
+          - generic [ref=e6] [cursor=pointer]:
+            - img [ref=e7]
+            - text: 用户注册
+          - generic [ref=e8] [cursor=pointer]:
+            - img [ref=e9]
+            - text: 用户登录
+    - navigation [ref=e10]:
+      - link:
+        - /url: https://www.sdicc.com.cn
+        - img [ref=e11] [cursor=pointer]
+      - link "首页" [ref=e12] [cursor=pointer]:
+        - /url: https://www.sdicc.com.cn
+        - generic [ref=e13]: 首页
+      - link "公司信息" [ref=e14] [cursor=pointer]:
+        - /url: /xxgl/toXinXiList?xinXiGuanLiType=11
+        - generic [ref=e15]: 公司信息
+      - link "采购信息" [ref=e16] [cursor=pointer]:
+        - /url: /cgxx/cgxxList
+        - generic [ref=e17]: 采购信息
+      - link "法规中心" [ref=e18] [cursor=pointer]:
+        - /url: /xxgl/lawcenter
+        - generic [ref=e19]: 法规中心
+      - link "新闻中心" [ref=e20] [cursor=pointer]:
+        - /url: /xxgl/informmenu?xinXiGuanLiType=2
+        - generic [ref=e21]: 新闻中心
+      - link "帮助中心" [ref=e22] [cursor=pointer]:
+        - /url: /xxgl/helpmenu?xinXiGuanLiType=21
+        - generic [ref=e23]: 帮助中心
+  - list [ref=e24]:
+    - listitem [ref=e25]:
+      - generic [ref=e27] [cursor=pointer]:
+        - img [ref=e28]
+        - generic [ref=e29]: 用户登录
+    - listitem [ref=e31]:
+      - generic [ref=e32]:
+        - img [ref=e33]
+        - generic [ref=e34]: 在线客服
+    - listitem [ref=e36]:
+      - generic [ref=e37]:
+        - img [ref=e38]
+        - generic [ref=e39]: 咨询热线
+    - listitem [ref=e41]:
+      - link "帮助中心" [ref=e42] [cursor=pointer]:
+        - /url: /xxgl/helpmenu?xinXiGuanLiType=21
+        - generic [ref=e43]:
+          - img [ref=e44]
+          - generic [ref=e45]: 帮助中心
+    - listitem [ref=e47]:
+      - img [ref=e49]
+  - generic [ref=e52]:
+    - img [ref=e53]
+    - generic [ref=e55]:
+      - paragraph [ref=e56]: 采购信息
+      - paragraph [ref=e57]: dealinfo notice detail
+  - generic [ref=e60]:
+    - banner [ref=e61]:
+      - generic [ref=e62]:
+        - text: "当前位置: 首页-"
+        - link "采购信息-" [ref=e63] [cursor=pointer]:
+          - /url: /cgxx/cgxxList?cgxxType=/ggList
+        - link "其他公示" [ref=e64] [cursor=pointer]:
+          - /url: /cgxx/cgxxList?cgxxType=/preNoticeList
+        - text: "-详情"
+    - generic [ref=e65]:
+      - heading "衡泰投资交易管理系统优化建设项目（2026年第二期）事前公示" [level=3] [ref=e66]
+      - generic [ref=e67]: (采购编号：000325-26TP0079/01)
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - banner [ref=e70]: 项目信息
+          - generic [ref=e71]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e74]: 采购人：
+                - generic [ref=e75]: 国投泰康信托有限公司
+              - generic [ref=e76]:
+                - generic [ref=e77]: 标段名称：
+                - generic [ref=e78]: 衡泰投资交易管理系统优化建设项目（2026年第二期）
+            - generic [ref=e80]:
+              - generic [ref=e81]: 拟采购项目的范围/内容：
+              - generic [ref=e82]: 本项目实现衡泰投资交易管理系统对接STP和产品中心
+            - generic [ref=e84]:
+              - generic [ref=e85]: 拟采购项目的预算金额（万元）：
+              - generic [ref=e86]: "117"
+            - generic [ref=e88]:
+              - generic [ref=e89]: 采用直接采购采购方式的依据：
+              - generic [ref=e90]: 需向原供应商采购，否则将影响施工或者功能配套要求
+            - generic [ref=e92]:
+              - generic [ref=e93]: 直接采购方式论证审查表：
+              - generic [ref=e94]:
+                - link "下载" [ref=e95] [cursor=pointer]:
+                  - /url: https://www.sdicc.com.cn/file-web/downloadFile?guid=0a509e6b-fbf2-45f2-ac09-11768156e1df&token=3360bf76-9634-4650-8073-509e54f3659a
+                - text: （公示期内支持下载）
+        - generic [ref=e96]:
+          - banner [ref=e97]: 拟定供应商信息
+          - generic [ref=e98]:
+            - generic [ref=e100]:
+              - generic [ref=e101]: 供应商名称：
+              - generic [ref=e102]: 杭州衡泰技术股份有限公司
+            - generic [ref=e104]:
+              - generic [ref=e105]: 供应商地址：
+              - generic [ref=e106]: 浙江省杭州市西湖区教工路23号百脑汇科技大厦1215室
+        - generic [ref=e107]:
+          - banner [ref=e108]: 公示时间
+          - generic [ref=e109]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: 公示开始时间：
+              - generic [ref=e113]: 2026-07-02 10:55
+            - generic [ref=e115]:
+              - generic [ref=e116]: 公示结束时间：
+              - generic [ref=e117]: 2026-07-05 10:55
+        - generic [ref=e118]:
+          - banner [ref=e119]: 其他补充事宜
+          - generic [ref=e122]:
+            - generic [ref=e123]: 其他补充事宜：
+            - generic [ref=e124]: 对公示内容有异议的，请于公示期内与联系人联系
+        - generic [ref=e125]:
+          - banner [ref=e126]: 采购人联系方式
+          - generic [ref=e127]:
+            - generic [ref=e128]:
+              - generic [ref=e129]:
+                - generic [ref=e130]: 采购人：
+                - generic [ref=e131]: 国投泰康信托有限公司
+              - generic [ref=e132]:
+                - generic [ref=e133]: 联系人：
+                - generic [ref=e134]: 刘欣莹
+            - generic [ref=e135]:
+              - generic [ref=e136]:
+                - generic [ref=e137]: 联系电话：
+                - generic [ref=e138]: "15383888290"
+              - generic [ref=e139]:
+                - generic [ref=e140]: 联系地址：
+                - generic [ref=e141]: 北京市西城区阜成门北大街2号楼16层、17层
+            - generic [ref=e144]: 电子邮箱：
+        - generic [ref=e146]:
+          - banner [ref=e147]: 附件
+          - generic [ref=e150]: 附件下载：
+  - contentinfo [ref=e151]:
+    - generic [ref=e152]:
+      - generic [ref=e154]:
+        - paragraph [ref=e155]: 中投咨询有限公司（国投集团采购服务中心） © Copyright . 京ICP备20019515号-1
+        - paragraph [ref=e156]: 地址：北京市丰台区汽车博物馆东路8号院金茂广场2号楼10层
+        - paragraph [ref=e157]: 电话：400-688-6166
+      - img [ref=e158]
+      - img [ref=e160]
+      - img [ref=e162]
+  - generic [ref=e163]:
+    - generic [ref=e164]:
+      - paragraph [ref=e165]:
+        - generic [ref=e166]: ×
+      - heading "Hi，有问题请找我！" [level=2] [ref=e168]
+    - img [ref=e169]
